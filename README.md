@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;I love learning to build and building to learn, especially if it means solving real-world problems
-- 🎓 &nbsp;I have a BS in math with a minor in stats and an associate in financial services. I've developed my programming knowledge by creating various software solutions professionally as a data analyst for over five years, and I supplemented that with General Assembly's intensive software engineering bootcamp
+- 💡 &nbsp;I love learning to build and building to learn, especially if it means solving real-world problems.
+- 🎓 &nbsp;I have a BS in math with a minor in stats and an associate in financial services. I've developed my programming knowledge by creating various software solutions professionally as a data analyst for over five years, and I supplemented that with General Assembly's intensive software engineering bootcamp.
 - 🌱 &nbsp;I'm currently learning software testing. Next on my list is Docker and solidifying my knowledge in data structures and algorithms.
 - ✍️ &nbsp;In my free time, I love learning something new, snowboarding, or playing video games with my friends.
 - 💬 &nbsp;Feel free to reach out to me for a cofee chat (virtual or otherwise)!
