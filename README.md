@@ -7,7 +7,6 @@
 - 🌱 &nbsp;I'm currently learning software testing. Next on my list is Docker and solidifying my knowledge in data structures and algorithms.
 - ✍️ &nbsp;In my free time, I love learning something new, snowboarding, or playing video games with my friends.
 - 💬 &nbsp;Feel free to reach out to me for a cofee chat (virtual or otherwise)!
-- ✉️ &nbsp;You can shoot me an email at claude@aldric.dev!
 - 📄 &nbsp;Here's my [resume](https://aldric.dev/resume_aldric_claude.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
