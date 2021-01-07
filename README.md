@@ -46,4 +46,77 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 159 Contributions in the Year 2021
+ > 
+> 📦 573.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    110 commits    █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+🌆 Daytime    193 commits    █████████░░░░░░░░░░░░░░░░   38.99% 
+🌃 Evening    140 commits    ███████░░░░░░░░░░░░░░░░░░   28.28% 
+🌙 Night      52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       82 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+Tuesday      101 commits    █████░░░░░░░░░░░░░░░░░░░░   20.4% 
+Wednesday    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
+Thursday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
+Friday       84 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
+Saturday     52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
+Sunday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.28%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   34.62% 
+TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   34.62% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/caldric/caldric/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
