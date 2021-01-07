@@ -45,6 +45,13 @@
 </a>
 </p>
 
+<details>
+  <summary>
+    More analytics stuff
+  </summary>
+  
+  <br />
+  
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -94,3 +101,4 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
+</details>
