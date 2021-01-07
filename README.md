@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="30" height="30" title="Vim" />
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Analytics
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -44,3 +44,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caldric&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
