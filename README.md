@@ -48,18 +48,8 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-309745%20lines%20of%20code-blue)
 
-> 🏆 159 Contributions in the Year 2021
- > 
-> 📦 573.6 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -101,22 +91,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   34.62% 
-TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   34.62% 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/caldric/caldric/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
